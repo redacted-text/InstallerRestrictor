@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstallerRestrictor</string>
+    <string name="app_desc">Restrict installation / uninstallation</string>
+</resources>
